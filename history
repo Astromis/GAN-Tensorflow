@@ -1,0 +1,119 @@
+commit 74a5a7f6774fd6f1a5880cde85249b9118fd45de
+Author: Astromis <aarmaageedoon1@gmail.com>
+Date:   Sun May 13 21:57:37 2018 +0300
+
+    style
+
+commit abbba03d93a88ae145b60b38188d8fe3b2fe2a94
+Author: Astromis <aarmaageedoon1@gmail.com>
+Date:   Tue May 8 23:24:59 2018 +0300
+
+    TB, nltk etc. But gan still not train.
+
+commit 39f9c40edefe653e154f1c66ea11f2ca9e03a640
+Author: Astromis <aarmaageedoon1@gmail.com>
+Date:   Thu Apr 19 20:37:01 2018 +0300
+
+    refactor: fix pep8 format in tensorflow/tmp/igor;
+
+commit cd1169b568d1fdc5f08a7abcfaf317d531c9cfc2
+Author: Igor Buyanov <aarmaageedoon1@gmail.com>
+Date:   Sat Apr 14 01:19:15 2018 +0300
+
+    Delete rnn_for_checking.py
+
+commit 74a57762519460df63e513a19c8f3406ed7e2365
+Author: Igor Buyanov <aarmaageedoon1@gmail.com>
+Date:   Sat Apr 14 01:18:57 2018 +0300
+
+    Delete generator_2.py
+
+commit 5470d1f6c64a5662d8014846270800a15d1da149
+Author: Igor Buyanov <aarmaageedoon1@gmail.com>
+Date:   Sat Apr 14 01:18:40 2018 +0300
+
+    Delete dicriminator.py
+
+commit 24b479fc2405dbc6808e3bf461c3782267b56398
+Author: Igor Buyanov <aarmaageedoon1@gmail.com>
+Date:   Sat Apr 14 02:16:53 2018 +0400
+
+    write gun init. fixies has been made
+
+commit b9e9187cede3d0977fa87eda68da370007a3918f
+Author: Maksim Petrov <maksimallist@gmail.com>
+Date:   Fri Apr 13 23:11:58 2018 +0300
+
+    fix: pep8 format in tensorflow/tmp/igor;
+
+commit b3352cc1969ad9e8dae02d9f4654594f63dfabf3
+Author: Igor Buyanov <aarmaageedoon1@gmail.com>
+Date:   Fri Apr 13 21:49:59 2018 +0300
+
+    Del BaseClass.py. Deprecated
+
+commit f155c89d3bcc59726a2e1b926e62466ccb136c0e
+Author: Igor Buyanov <aarmaageedoon1@gmail.com>
+Date:   Fri Apr 13 22:47:52 2018 +0400
+
+    generators and dicriminator ready for test.
+
+commit 8f6ca1effee4bc8f2abf2aec65bd53a0b124dafc
+Author: Dmitry Efimov <sikirr@gmail.com>
+Date:   Thu Apr 12 10:23:55 2018 +0300
+
+    Added CharRNN & LSTM Generators
+
+commit 1aa4a1ec538b3778a1680c66eba165d0b65e46af
+Author: Maksim Petrov <maksimallist@gmail.com>
+Date:   Wed Apr 11 14:19:49 2018 +0300
+
+    refactor: fix pep8 format in tensorflow/tmp/igor;
+
+commit 8843922383e9a3c3f5463f7cf0cad0e2c3d5cc7f
+Author: Maksim Petrov <maksimallist@gmail.com>
+Date:   Wed Apr 11 14:19:32 2018 +0300
+
+    refactor: fix pep8 format in tensorflow/tmp/igor;
+
+commit 3d3d8a2e40d149f7b1f6293a7885b35c7918ffbd
+Author: Maksim Petrov <maksimallist@gmail.com>
+Date:   Wed Apr 11 13:26:41 2018 +0300
+
+    refactor: rebuild repository; fix some files; add torch in requirements;
+
+commit a7280e533fc69854d607d74a2b4ae478856ff61c
+Author: Maksim Petrov <maksimallist@gmail.com>
+Date:   Wed Apr 11 13:25:34 2018 +0300
+
+    refactor: rebuild repository; fix some files; add torch in requirements;
+
+commit 52960d733533a0dfd46898a8902b42a3453d6c5a
+Author: Dikir <sikirr@gmail.com>
+Date:   Wed Apr 11 00:46:45 2018 +0300
+
+    Added PyTorch code
+
+commit dba642ae54fc2400f06a8e9b7dbeaf2ba30a875f
+Author: Igor Buyanov <aarmaageedoon1@gmail.com>
+Date:   Sat Mar 31 19:10:41 2018 +0300
+
+    Add files via upload
+
+commit fa8ce56b87f3ad9c16f8cdd66c9c6a7cdc83d4fb
+Author: Maksim Petrov <maksimallist@gmail.com>
+Date:   Tue Mar 27 19:04:28 2018 +0300
+
+    add: layers.py example
+
+commit ae435fd16bcd957d2c08117ddc34851330e5361c
+Author: Astromis <aarmaageedoon1@gmail.com>
+Date:   Tue Mar 27 12:47:08 2018 +0300
+
+    Add files via upload
+
+commit b2af4bf7ff1c341fcb1dce5a3a47d5c72f6f5ae2
+Author: Maksim Petrov <maksimallist@gmail.com>
+Date:   Wed Mar 14 16:46:46 2018 +0300
+
+    first commit
